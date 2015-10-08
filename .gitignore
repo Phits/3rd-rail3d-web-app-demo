@@ -1,0 +1,8 @@
+
+/build/*
+/serve/*
+/node_modules/*
+/.grunt/*
+.ftppass
+.DS_Store
+npm-debug.log
